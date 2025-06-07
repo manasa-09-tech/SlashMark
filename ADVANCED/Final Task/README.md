@@ -27,7 +27,7 @@
 
 2. **Start the app**  
    ```bash
-   python app.py
+   python final.py
    ```
 
 3. **Open in your browser**  
