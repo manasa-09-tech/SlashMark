@@ -24,7 +24,7 @@
     
     2. **(Optional) Set environment variables:**
         - `ENCRYPTION_KEY_BASE64` (32-byte base64 key, auto-generated if not set)
-        - `ADMIN_TOKEN` (default: `supersecrettoken`)
+        - `ADMIN_TOKEN` (default: `manasa`)
         - `FLASK_SECRET_KEY` (for Flask session, any random string)
     
     3. **Start the app:**
