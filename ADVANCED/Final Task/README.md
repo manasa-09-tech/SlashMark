@@ -22,7 +22,7 @@
 1. **Install requirements**  
    Open your terminal and run:
    ```bash
-   pip install flask flask_sqlalchemy flask_login flask_wtf wtforms
+   pip install flask flask_sqlalchemy flask_login flask_wtf wtforms email_validator
    ```
 
 2. **Start the app**  
