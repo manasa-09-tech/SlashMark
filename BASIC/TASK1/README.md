@@ -25,21 +25,25 @@ It's a beginner-friendly project made with Node.js.
 
 
   3. Install required packages by running:
+     
 
+      npm init -y
+      npm install express
       npm install
+      npm install dotenv
 
 
-  4. Create a .env file and add your encryption key like this:
+  5. Create a .env file and add your encryption key like this:
 
       ENCRYPTION_KEY=12345678901234567890123456789012
 
 
-  5. Start the server with:
+  6. Start the server with:
 
       nodemon app.js
 
 
-  6. Open your browser and go to:
+  7. Open your browser and go to:
 
       http://localhost:3000/encrypt
 
